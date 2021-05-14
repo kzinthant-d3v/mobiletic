@@ -22,5 +22,7 @@ module.exports = {
   rules: {
     '@typescript-eslint/no-unused-vars': 'off',
     'no-console': 'error',
+    '@typescript-eslint/explicit-module-boundary-types': 'off',
+    'react/prop-types': 'off',
   },
 };
