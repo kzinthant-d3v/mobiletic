@@ -21,6 +21,6 @@ module.exports = {
   settings: { react: { version: 'detect' } },
   rules: {
     '@typescript-eslint/no-unused-vars': 'off',
-    'no-console': 'warn',
+    'no-console': 'error',
   },
 };
